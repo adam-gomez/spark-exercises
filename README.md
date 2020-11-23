@@ -1,0 +1,1 @@
+This repository will hold Codeup's spark curriculum exercises.
