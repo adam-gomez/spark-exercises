@@ -6,3 +6,7 @@ Thumbs.db
 .vscode/
 package.json
 *.csv
+mpg_csv/
+mpg_json/
+sources_csv/
+sources_json/
